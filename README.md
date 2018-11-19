@@ -6,8 +6,8 @@ A simple web app that helps you organize your tasks.
 
 Functionality
 ---
-* Insert a Task
-* Delete a Task
+* Insert a task
+* Delete a task
 * Search for a task
 * View all tasks
 * View expired tasks
