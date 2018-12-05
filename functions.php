@@ -3,11 +3,9 @@
 include("connect.php");
 
 //display assignments based pn parameter given
-
 function displayAssignments($type){
 
 	global $link;
-
 	if ($type == 'all') {
 		$whereClause = "WHERE expired=0";
 	}
