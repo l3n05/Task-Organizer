@@ -33,7 +33,6 @@ if ($_GET['action'] == "submit") {
 
 }
 
-
 //delete a task
 if ($_GET['action'] == 'delete') {
 
