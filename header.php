@@ -56,7 +56,7 @@
     </div>
     <!-- /#menu-wrapper -->
 
-    <!-------------------------------------- New Task Modal -------------------------------------------------------------------------->
+    <!------------------------------------- New Task Modal ---------------------------------------->
     <div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
